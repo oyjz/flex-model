@@ -1,0 +1,21 @@
+{
+  "name": "oyjz/flex-model",
+  "description": "a php flexible data model.",
+  "authors": [
+    {
+      "name": "Jin",
+      "email": "hi@oyjz.cn"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "flexModel\\": "src"
+    }
+  },
+  "homepage": "http://www.oyjz.cn/",
+  "license": "MIT"
+}
